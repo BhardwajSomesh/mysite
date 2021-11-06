@@ -1,0 +1,33 @@
+
+img{ width: 250px;
+    height: 250px;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+h1{
+    margin-left: 60%;
+   font-style: italic;
+   color: olivedrab;
+   font-size: 50px;
+   
+    }
+body{color: rgba(6, 10, 3, 0.808);
+    background-color: rgb(226, 222, 226);
+}
+h2{
+  font-family: initial;
+  font-size: 30px;
+  padding: 0;
+}
+.top{
+    background-color: khaki;
+    width: auto;
+    height: auto;
+}
+.middle{
+    background-color: lavenderblush;
+}
+.bottom{
+    background-color: lightpink;
+    font-size: 50px;
+}
